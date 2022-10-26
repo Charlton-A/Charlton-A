@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=8A8AFF&width=500&lines=Charlton+%7C%3E+Python,Go+%7C%3E+Backend+Developer+)](https://git.io/typing-svg)
 
 Backend Developer
-- Building reliable,scalable and maintanable microservices.
+- Interested in  nuances of software developement.
 - Member of [masonite webframework](https://docs.masoniteproject.com/) community.
 
 
