@@ -4,7 +4,6 @@
 
 Backend Developer
 - Interested in  nuances of software developement.
-- Member of [masonite webframework](https://docs.masoniteproject.com/) community.
 
 
 ## Current Technology Stack
